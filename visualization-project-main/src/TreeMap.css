@@ -1,0 +1,46 @@
+/* TreeMap.css */
+
+/* Tooltip Styles */
+.tooltip {
+    position:absolute;
+    text-align: left;
+    padding: 10px;
+    font: 12px Arial, sans-serif;
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    border-radius: 5px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    max-width: 300px; /* Adjust as needed */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); /* Adds depth */
+    z-index: 1000; /* Ensure tooltip appears above other elements */
+    white-space: nowrap; /* Prevents tooltip text from wrapping */
+}
+
+/* Optional: Tooltip Arrow */
+.tooltip::after {
+    content: "";
+    position: absolute;
+    top: 10px; /* Adjust based on tooltip height */
+    left: -10px; /* Adjust based on tooltip position */
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent rgba(0, 0, 0, 0.85) transparent transparent;
+}
+
+
+
+/* Legend Item Styles */
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.legend-color {
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    flex-shrink: 0;
+}
