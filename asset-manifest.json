@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/visualization-project/static/css/main.522a6bba.css",
-    "main.js": "/visualization-project/static/js/main.1708c7ad.js",
+    "main.js": "/visualization-project/static/js/main.912027b9.js",
     "static/js/453.dbf301ae.chunk.js": "/visualization-project/static/js/453.dbf301ae.chunk.js",
-    "static/media/Cleaned_Mobiles_Dataset_Cleaned_Mobiles_Dataset.csv": "/visualization-project/static/media/Cleaned_Mobiles_Dataset_Cleaned_Mobiles_Dataset.f9bb47068fab70e9ced8.csv",
+    "static/media/Cleaned_Mobiles_Dataset_Cleaned_Mobiles_Dataset.csv": "/visualization-project/static/media/Cleaned_Mobiles_Dataset_Cleaned_Mobiles_Dataset.9956a5e7992791ecfb64.csv",
     "index.html": "/visualization-project/index.html",
     "main.522a6bba.css.map": "/visualization-project/static/css/main.522a6bba.css.map",
-    "main.1708c7ad.js.map": "/visualization-project/static/js/main.1708c7ad.js.map",
+    "main.912027b9.js.map": "/visualization-project/static/js/main.912027b9.js.map",
     "453.dbf301ae.chunk.js.map": "/visualization-project/static/js/453.dbf301ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.522a6bba.css",
-    "static/js/main.1708c7ad.js"
+    "static/js/main.912027b9.js"
   ]
 }
