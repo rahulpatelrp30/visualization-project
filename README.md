@@ -6,17 +6,8 @@
 ## 🎯 Overview
 Interactive visualization dashboard showcasing smartphone market analysis through dynamic charts and filters.
 
-```
-📱 Smartphone Analysis Dashboard
-┌─────────────────┐ ┌─────────────────┐
-│   Price Chart   │ │  Rating vs Price│
-│   Bar Chart     │ │  Scatter Plot   │
-└─────────────────┘ └─────────────────┘
-┌───────────────────────────────────┐
-│        Brand Distribution         │
-│           Tree Map               │
-└───────────────────────────────────┘
-```
+## � Dashboard Preview
+![Smartphone Analysis Dashboard](docs/dashboard-preview.png)
 
 ---
 
