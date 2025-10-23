@@ -69,8 +69,7 @@ class App extends Component {
         return (
             <div>
                 <div className="groupInfo">
-                    <p>Group #: 9</p>
-                    <p>Group Members: Jeremy Granizo, Rahul Patel, Alamdar Qanoongo, Daniel Santos Martinez</p>
+                    
                 </div>
 
                 {/* Slider */}
