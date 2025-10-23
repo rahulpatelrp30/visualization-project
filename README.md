@@ -9,6 +9,7 @@ Interactive visualization dashboard showcasing smartphone market analysis throug
 ## 📸 Dashboard Preview
 <div align="center">
   <img src="docs/dashboard-preview.png" alt="Smartphone Analysis Dashboard" width="100%" />
+
 </div>
 
 
