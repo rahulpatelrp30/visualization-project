@@ -6,8 +6,13 @@
 ## 🎯 Overview
 Interactive visualization dashboard showcasing smartphone market analysis through dynamic charts and filters.
 
-## � Dashboard Preview
-![Smartphone Analysis Dashboard](docs/dashboard-preview.png)
+## 📸 Dashboard Preview
+<div align="center">
+  <img src="docs/dashboard-preview.png" alt="Smartphone Analysis Dashboard" width="100%" />
+</div>
+
+
+
 
 ---
 
